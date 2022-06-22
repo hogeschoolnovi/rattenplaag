@@ -10,7 +10,7 @@ Er heerst een rattenplaag bij NOVI. We proberen daar wat aan te doen, maar deze 
 - elke 6 dagen komen er nog eens 25 ratten bij;
 - elke 7 dagen komen er nog eens 32 ratten bij.
 
-Dat betekent dat als we dag 12 beginnen met 20 ratten, we de dag eindigen met (20 + 3 + 7 + 18 + 25) = 73 ratten!!
+Een voorbeeld: Stel we beginnen dag 12 met 20 ratten. Na het toepassen van bovenstaande regels, zouden we dag 12 eindigen met (20 + 6 + 3 + 7 + 18 + 25) = 79 ratten!!
 
 ![ratten](/assets/ratten.jpg)
 
