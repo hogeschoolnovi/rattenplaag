@@ -46,8 +46,8 @@ De patronen zouden we dan kunnen uitlezen in de volgorde: "cbadeafdg"
 ## De opdracht
 
 Aan jou is nu de taak om programmatisch uit te gaan rekenen 
-hoeveel ratten er op deze dagen zijn en die cijfers vervolgens te vertalen naar letters. 
-Je begint met 10 ratten en je dagen begin je te tellen op dag 1 (niet dag 0).
+hoeveel ratten er op deze dagen zijn en die cijfers vervolgens te vertalen naar letters volgens ASCII. 
+Je begint voor deze berekening met 10 ratten en je dagen begin je te tellen op dag 1 (niet dag 0).
 
 Als het je lukt, dan zal er een boodschap aan je onthult worden. 
 Deze boodschap kun je doorgeven aan je SME'er en dan maak je kans op een prijs.
