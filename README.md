@@ -10,12 +10,11 @@ Er heerst een rattenplaag bij NOVI. We proberen daar wat aan te doen, maar deze 
 - elke 6 dagen komen er nog eens 25 ratten bij;
 - elke 7 dagen komen er nog eens 32 ratten bij.
 
-Een voorbeeld: Stel we beginnen dag 12 met 20 ratten. Na het toepassen van bovenstaande regels, zouden we dag 12 eindigen met (20 + 6 + 3 + 7 + 18 + 25) = 79 ratten!!
-
+Een voorbeeld: Stel we beginnen dag 12 met 20 ratten. Na het toepassen van bovenstaande regels, zouden we dag 12 eindigen met (20 + 6 + 3 + 7 + 18 + 25) = 79 ratten!! Want 12 is deelbaar door 1, 2, 3, 4 en 6.
 ![ratten](/assets/ratten.jpg)
 
 Dat vinden wij alles behalve prettig. Daarom komt er elke maand (30 dagen) een rattenverdelger langs. Deze rattenverdelger is niet perfect, maar wel effectief. 
-Als de rattenverdelger langs is geweest overleven er nog slechts 3 ratten die bevend in een hoekje zitten verstopt.
+Als de rattenverdelger langs is geweest overleven er nog slechts 3 ratten die bevend in een hoekje zitten verstopt. Op dag 31 komen er echter weer "gewoon" 6 ratten bij, want 31 is deelbaar door 1.
 
 De ratten houden er zelf echter ook niet van als het te druk wordt. We hebben namelijk gemerkt dat er nooit meer dan 128 ratten zijn. Wanneer er toch meer ratten komen, dan splits de helft (afgerond naar beneden) van de groep zich af en zoekt een functie elders.
 
